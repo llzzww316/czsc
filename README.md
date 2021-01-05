@@ -11,7 +11,14 @@
 
 * [如何分析选股策略的历史表现？](https://github.com/zengbin93/czsc/issues/17)
 
+## 原文整理
 
+* [缠中说禅重新编排版《论语》（整理版）](https://blog.csdn.net/baidu_25764509/article/details/109517775)
+* [缠中说禅交易指南](https://blog.csdn.net/baidu_25764509/article/details/109598229)
+* [缠中说禅技术原理](https://blog.csdn.net/baidu_25764509/article/details/109597255)
+* [缠中说禅图解分析示范](https://blog.csdn.net/baidu_25764509/article/details/110195063)
+
+**注意：** 如果CSDN的连接打不开，可以直接在 `czsc/docs` 目录下查看 html 文件
 
 ## 安装
 
