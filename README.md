@@ -2,8 +2,6 @@
 >源于[缠中说缠博客](http://blog.sina.com.cn/chzhshch)，欢迎加群探讨，
 >QQ群：`1125818657`，加群请备注自己对缠论的了解程度，谢谢。
 
-> 考虑到我自己对缠论的理解还在“四不像”水平，czsc 这个库只有参考的价值。画画笔和线段也还行，但这个离缠论分析还很远
-
 
 ## 问题讨论
 
@@ -58,3 +56,8 @@ pip install czsc -U -i https://pypi.python.org/simple
 
 使用聚宽数据的快速入门请查看 `examples\czsc 快速入门教程.ipynb`
 
+## 捐赠支持
+
+>如果这个项目对你的交易有些许帮助，可以扫码捐赠，让我知道一下，感谢！另外，**可以顺便提一个问题或需求。**
+
+<img src="https://github.com/zengbin93/czsc/blob/master/docs/donate.png" height="220" width="400">
